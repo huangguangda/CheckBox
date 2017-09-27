@@ -1,0 +1,8 @@
+<resources>
+    <string name="hello">调查：你喜欢Android的那款手机？</string>
+    <string name="app_name">CheckBoxTest</string>
+    <string name="checkbox1">HTC desire HD</string>
+    <string name="checkbox2">Google nexus one</string>
+    <string name="checkbox3">HTC defy</string>
+    <string name="checkbox4">摩托罗拉里程碑II</string>
+</resources>
